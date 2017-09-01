@@ -25,7 +25,7 @@
     <property name="EXECUTABLE" value="C:\softwares\apache-tomcat-8.5.15\bin\catalina.bat"/>
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="PUBLIC" value="C:\Users\Public"/>
-    <property name="RELEASE_SCM_TAG" value="java-junit-v1.0"/>
+    <property name="RELEASE_SCM_TAG" value="java-junit-1.1"/>
     <property name="user.name" value="rajeswari.k.murthy"/>
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
@@ -34,20 +34,20 @@
     <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 78 Stepping 3, GenuineIntel"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="LOCALAPPDATA" value="C:\Users\rajeswari.k.murthy\AppData\Local"/>
-    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/jenkins/job/artifactory_new_build/21/display/redirect?page=changes"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/jenkins/job/artifactory_new_build/23/display/redirect?page=changes"/>
     <property name="user.timezone" value="Asia/Calcutta"/>
     <property name="user.script" value=""/>
     <property name="path.separator" value=";"/>
     <property name="NUMBER_OF_PROCESSORS" value="4"/>
-    <property name="BUILD_TAG" value="jenkins-artifactory_new_build-21"/>
+    <property name="BUILD_TAG" value="jenkins-artifactory_new_build-23"/>
     <property name="file.encoding" value="Cp1252"/>
-    <property name="sun.java.command" value="jenkins.maven3.agent.Maven33Main C:\Users\rajeswari.k.murthy\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\maven C:\softwares\apache-tomcat-8.5.15\webapps\jenkins\WEB-INF\lib\remoting-2.62.3.jar C:\Users\rajeswari.k.murthy\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven33-interceptor-1.8.1.jar C:\Users\rajeswari.k.murthy\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.8.1.jar 51268"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven33Main C:\Users\rajeswari.k.murthy\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\maven C:\softwares\apache-tomcat-8.5.15\webapps\jenkins\WEB-INF\lib\remoting-2.62.3.jar C:\Users\rajeswari.k.murthy\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven33-interceptor-1.8.1.jar C:\Users\rajeswari.k.murthy\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.8.1.jar 51671"/>
     <property name="HUDSON_URL" value="http://localhost:8080/jenkins/"/>
     <property name="JENKINS_SERVER_COOKIE" value="1856af4a3da41ff1"/>
-    <property name="EXECUTOR_NUMBER" value="1"/>
+    <property name="EXECUTOR_NUMBER" value="0"/>
     <property name="Path" value="C:\Program Files\Java\jdk1.8.0_131\/bin;C:\ProgramData\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_131\bin;C:\softwares\Git\cmd;C:\softwares\python\Scripts\;C:\softwares\python\;C:\Users\rajeswari.k.murthy\AppData\Local\Microsoft\WindowsApps;"/>
     <property name="ZAPROXY_HOME" value="C:\Program Files\OWASP\Zed Attack Proxy\"/>
-    <property name="GIT_COMMIT" value="7c4b149f39077a2b8d72c0cc6f0f3432768f2f3a"/>
+    <property name="GIT_COMMIT" value="e5116eaab0a0002c375ebf26494c1661f63e08c4"/>
     <property name="GIT_COMMITTER_NAME" value="Rajeswari-31"/>
     <property name="java.io.tmpdir" value="C:\Users\RAJESW~1.MUR\AppData\Local\Temp\"/>
     <property name="APPDATA" value="C:\Users\rajeswari.k.murthy\AppData\Roaming"/>
@@ -55,14 +55,14 @@
     <property name="CATALINA_TMPDIR" value="C:\softwares\apache-tomcat-8.5.15\temp"/>
     <property name="line.separator" value="
 "/>
-    <property name="BUILD_URL" value="http://localhost:8080/jenkins/job/artifactory_new_build/21/"/>
+    <property name="BUILD_URL" value="http://localhost:8080/jenkins/job/artifactory_new_build/23/"/>
     <property name="ACTION" value="start"/>
     <property name="M2_HOME" value="C:\Users\rajeswari.k.murthy\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\maven"/>
     <property name="=C:" value="C:\softwares\apache-tomcat-8.5.15\bin"/>
     <property name="java.vm.info" value="mixed mode"/>
     <property name="sun.desktop" value="windows"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="BUILD_DISPLAY_NAME" value="#21"/>
+    <property name="BUILD_DISPLAY_NAME" value="#23"/>
     <property name="OS" value="Windows_NT"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
     <property name="CATALINA_BASE" value="C:\softwares\apache-tomcat-8.5.15"/>
@@ -81,7 +81,7 @@
     <property name="os.name" value="Windows 10"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
-    <property name="BUILD_NUMBER" value="21"/>
+    <property name="BUILD_NUMBER" value="23"/>
     <property name="maven3.interceptor" value="C:\Users\rajeswari.k.murthy\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven33-interceptor-1.8.1.jar"/>
     <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_131\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Users\rajeswari.k.murthy\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\maven/bin;C:\Program Files\Java\jdk1.8.0_131\/bin;C:\Program Files\Java\jdk1.8.0_131\/bin;C:\ProgramData\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_131\bin;C:\softwares\Git\cmd;C:\softwares\python\Scripts\;C:\softwares\python\;C:\Users\rajeswari.k.murthy\AppData\Local\Microsoft\WindowsApps;;."/>
     <property name="HOMEDRIVE" value="C:"/>
@@ -92,23 +92,23 @@
     <property name="LOGGING_MANAGER" value="-Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager"/>
     <property name="_RUNJDB" value="&quot;C:\Program Files\Java\jdk1.8.0_131\\bin\jdb.exe&quot;"/>
     <property name="JOB_URL" value="http://localhost:8080/jenkins/job/artifactory_new_build/"/>
-    <property name="GIT_PREVIOUS_COMMIT" value="7c4b149f39077a2b8d72c0cc6f0f3432768f2f3a"/>
+    <property name="GIT_PREVIOUS_COMMIT" value="e5116eaab0a0002c375ebf26494c1661f63e08c4"/>
     <property name="OneDrive" value="C:\Users\rajeswari.k.murthy\OneDrive - Accenture"/>
     <property name="GIT_BRANCH" value="origin/master"/>
-    <property name="buildInfoConfig.propertiesFile" value="C:\softwares\apache-tomcat-8.5.15\temp\buildInfo1346098547916773271.properties"/>
-    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/jenkins/job/artifactory_new_build/21/display/redirect"/>
+    <property name="buildInfoConfig.propertiesFile" value="C:\softwares\apache-tomcat-8.5.15\temp\buildInfo3329142036578650032.properties"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/jenkins/job/artifactory_new_build/23/display/redirect"/>
     <property name="MAINCLASS" value="org.apache.catalina.startup.Bootstrap"/>
     <property name="JENKINS_HOME" value="C:\Users\rajeswari.k.murthy\.jenkins"/>
-    <property name="BUILD_ID" value="21"/>
+    <property name="BUILD_ID" value="23"/>
     <property name="TEMP" value="C:\Users\RAJESW~1.MUR\AppData\Local\Temp"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_131\jre\bin"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="user.variant" value=""/>
     <property name="PROCESSOR_REVISION" value="4e03"/>
-    <property name="POM_VERSION" value="1.0"/>
+    <property name="POM_VERSION" value="1.1-SNAPSHOT"/>
     <property name="HUDSON_HOME" value="C:\Users\rajeswari.k.murthy\.jenkins"/>
-    <property name="GIT_PREVIOUS_SUCCESSFUL_COMMIT" value="7c4b149f39077a2b8d72c0cc6f0f3432768f2f3a"/>
+    <property name="GIT_PREVIOUS_SUCCESSFUL_COMMIT" value="e5116eaab0a0002c375ebf26494c1661f63e08c4"/>
     <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
     <property name="PATH+MAVEN" value="C:\Users\rajeswari.k.murthy\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\maven/bin"/>
     <property name="USERDOMAIN_ROAMINGPROFILE" value="DIR"/>
@@ -125,7 +125,7 @@
     <property name="os.version" value="10.0"/>
     <property name="user.home" value="C:\Users\rajeswari.k.murthy"/>
     <property name="USERNAME" value="rajeswari.k.murthy"/>
-    <property name="RT_RELEASE_STAGING_VERSION" value="1.0"/>
+    <property name="RT_RELEASE_STAGING_VERSION" value="1.1"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="PROCESSOR_LEVEL" value="6"/>
     <property name="USERDNSDOMAIN" value="DIR.SVC.ACCENTURE.COM"/>
@@ -140,7 +140,7 @@
     <property name="ORACLE_HOME" value="C:\app\dev\product\12.1.0\dbhome_1\"/>
     <property name="java.class.path" value="C:\Users\rajeswari.k.murthy\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven33-agent-1.8.1.jar;C:\Users\rajeswari.k.murthy\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\maven\boot\plexus-classworlds-2.5.2.jar;C:\Users\rajeswari.k.murthy\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\maven/conf/logging"/>
     <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
-    <property name="RT_RELEASE_STAGING_SCM_TAG" value="java-junit-v1.0"/>
+    <property name="RT_RELEASE_STAGING_SCM_TAG" value="java-junit-1.1"/>
     <property name="os.arch" value="amd64"/>
     <property name="WORKSPACE" value="C:\Users\rajeswari.k.murthy\.jenkins\workspace\artifactory_new_build"/>
     <property name="ComSpec" value="C:\windows\system32\cmd.exe"/>
@@ -155,7 +155,7 @@
     <property name="java.runtime.version" value="1.8.0_131-b11"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_131\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_131\jre\classes"/>
     <property name="ProgramFiles" value="C:\Program Files"/>
-    <property name="RT_RELEASE_STAGING_NEXT_VERSION" value="1.1-SNAPSHOT"/>
+    <property name="RT_RELEASE_STAGING_NEXT_VERSION" value="1.2-SNAPSHOT"/>
     <property name="PATH+JDK" value="C:\Program Files\Java\jdk1.8.0_131\/bin"/>
     <property name="user.country" value="US"/>
     <property name="POM_PACKAGING" value="jar"/>
